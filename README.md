@@ -6,8 +6,8 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1800&pause=700&center=true&vCenter=true&width=520&lines=MySQL;PHP;Laravel;React;TypeScript"
-    alt="Animated technology stack: MySQL, PHP, Laravel, React, and TypeScript"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Laravel+Developer;React+Developer;IT+Support+%26+Troubleshooting;PostgreSQL+%26+MySQL;Always+Learning+New+Technologies"
+    alt="Typing SVG"
   />
 </p>
 
