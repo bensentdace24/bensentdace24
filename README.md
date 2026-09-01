@@ -4,9 +4,16 @@
 
 **Full-Stack Web Developer · Laravel · React · IT Support**
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1800&pause=700&center=true&vCenter=true&width=520&lines=MySQL;PHP;Laravel;React;TypeScript"
+    alt="Animated technology stack: MySQL, PHP, Laravel, React, and TypeScript"
+  />
+</p>
+
 I build practical web applications and information systems that solve real-world problems.
 
-[Portfolio](https://bensentdace24.github.io) · [Projects](https://github.com/bensentdace24?tab=repositories)
+[Portfolio](https://github.com/bensentdace24/porfoliofinal) · [Projects](https://github.com/bensentdace24?tab=repositories)
 
 </div>
 
@@ -57,7 +64,7 @@ A responsive tracking and management tool for organizing motorcycle-related reco
 
 <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
 
-### [Personal Portfolio](https://bensentdace24.github.io)
+### [Personal Portfolio](https://github.com/bensentdace24/porfoliofinal)
 
 A responsive developer portfolio presenting my background, technical growth, and software projects.
 
