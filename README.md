@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Bensen
+  Hi 👋, I'm Vincent
 </h1>
 
 <h3 align="center">
@@ -123,7 +123,7 @@ My personal developer portfolio showcasing my projects, technical skills, and ex
   <img
     height="170"
     src="https://github-readme-stats.vercel.app/api?username=bensentdace24&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Bensen GitHub Stats"
+    alt="Bensent GitHub Stats"
   />
 
   <img
