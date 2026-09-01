@@ -119,19 +119,17 @@ My personal developer portfolio showcasing my projects, technical skills, and ex
 ## 📊 GitHub Statistics
 
 <p align="center">
-
   <img
+    src="https://github-readme-stats.vercel.app/api?username=bensentdace24&show_icons=true&theme=github_dark&hide_border=true"
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=bensentdace24&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Bensent GitHub Stats"
+    alt="GitHub Stats"
   />
 
   <img
-    height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensentdace24&layout=compact&theme=github_dark&hide_border=true"
+    height="170"
     alt="Top Languages"
   />
-
 </p>
 
 ---
@@ -151,9 +149,7 @@ My personal developer portfolio showcasing my projects, technical skills, and ex
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=bensentdace24&theme=github-compact&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bensentdace24&theme=github-compact&hide_border=true"
     alt="Contribution Graph"
   />
 </p>
-
----
