@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Bensen</h1>
+<h1 align="center">Hey 👋, I'm Vincent</h1>
 
 <h3 align="center">
 BSIT Graduate • Web Developer • IT Support
