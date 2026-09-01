@@ -148,7 +148,7 @@ My personal developer portfolio showcasing my projects, technical skills, and ex
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=bensentdace24"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bensentdace24&theme=github-compact&hide_border=true"
     alt="Bensen Activity Graph"
   />
 </p>
