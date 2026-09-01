@@ -13,7 +13,7 @@
 
 I build practical web applications and information systems that solve real-world problems.
 
-[Portfolio](https://github.com/bensentdace24/porfoliofinal) · [Projects](https://github.com/bensentdace24?tab=repositories)
+[Portfolio](https://bensentdace24.github.io/porfoliofinal/) · [Projects](https://github.com/bensentdace24?tab=repositories)
 
 </div>
 
