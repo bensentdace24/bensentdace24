@@ -60,19 +60,21 @@ My personal developer portfolio hosted through GitHub Pages.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Git Stats
 
 <p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=bensentdace24&show_icons=true&theme=github_dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=bensentdace24&show_icons=true&theme=github_dark&hide_border=true"
+    height="165"
+  />
 
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensentdace24&layout=compact&theme=github_dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensentdace24&layout=compact&theme=github_dark&hide_border=true"
+    height="165"
+  />
 </p>
 
----
-
-## 🔥 Contribution Streak
+## 🔥 Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bensentdace24&theme=github-dark-blue&hide_border=true" />
