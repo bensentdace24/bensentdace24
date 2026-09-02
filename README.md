@@ -31,6 +31,7 @@ I build practical web applications and information systems that solve real-world
 I'm a BSIT graduate from Davao del Norte, Philippines, focused on full-stack web development and reliable IT solutions.
 
 - Building web applications with Laravel, React, and TypeScript
+- CI/CD
 - Working with MySQL, PostgreSQL, SQLite, and REST APIs
 - Experienced in IT support, troubleshooting, networking, and computer systems
 - Using AI-assisted development for planning, learning, debugging, and code improvement while reviewing and testing the final work
