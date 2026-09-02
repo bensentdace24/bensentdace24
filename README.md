@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vincent Dave Awa
+# Vincent
 
 **Full-Stack Web Developer · Laravel · React · IT Support**
 
