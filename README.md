@@ -63,7 +63,7 @@ A web-based information system for organizing organizational data, supporting st
 
 A responsive tracking and management tool for organizing motorcycle-related records through a straightforward browser interface.
 
-<code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+<code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Python</code>
 
 ### [Personal Portfolio](https://github.com/bensentdace24/porfoliofinal)
 
