@@ -69,7 +69,7 @@ A responsive tracking and management tool for organizing motorcycle-related reco
 
 A responsive developer portfolio presenting my background, technical growth, and software projects.
 
-<code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+<code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Tailwind</code>
 
 ## GitHub Activity
 
