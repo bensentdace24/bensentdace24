@@ -57,7 +57,7 @@ I'm a BSIT graduate from Davao del Norte, Philippines, focused on full-stack web
 
 A web-based information system for organizing organizational data, supporting staff workflows, and improving access to important records.
 
-<code>PHP</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code> <code>MySQL</code>
+<code>PHP</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code> <code>MySQL</code> <code>Python</code> <code>Numpy</code>
 
 ### [Motorcycle Tracker](https://github.com/bensentdace24/motorcycle-tracker)
 
