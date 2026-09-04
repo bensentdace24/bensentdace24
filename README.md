@@ -2,7 +2,7 @@
 
 ## 👋 Hi I'm Vincent Dave!
 
-**Full-Stack Web Developer · Laravel · React · IT Support**
+**Full-Stack Web Developer · Laravel · React · IT Support · Networking**
 
 <p align="center">
   <img
