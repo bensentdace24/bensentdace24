@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Hello I'm Vincent!!!
+## 👋 Hi There!! I'm Vincent!!!
 
 **Full-Stack Web Developer · Laravel · React · IT Support · Networking**
 
