@@ -28,7 +28,7 @@ I build practical web applications and information systems that solve real-world
   alt="Vincent coding animation"
 />
 
-I'm a BSIT graduate from Davao del Norte, 8105, Philippines, focused on full-stack web development and reliable IT solutions.
+I'm a BSIT graduate from Davao del Norte, 8101, Philippines, focused on full-stack web development and reliable IT solutions.
 
 - Building web applications with Laravel, React, and TypeScript
 - CI/CD
